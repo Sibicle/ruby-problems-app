@@ -1,2 +1,3 @@
-# ruby-test-webapp
-webapp for coding exam
+# Ruby Problem App
+
+webapp showing solutions to a talent agency coding exam
