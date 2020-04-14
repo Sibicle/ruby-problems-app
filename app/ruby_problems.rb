@@ -1,5 +1,3 @@
-require 'sinatra/base'
-
 class MyApp < Sinatra::Base
 
   before do
