@@ -1,8 +1,8 @@
 require 'rubygems'
-require 'bundler'
+require 'bundler/setup'
 
-Bundler.require
+Bundler.require(:default)
 
-require "./app/ruby_problems.rb"
+require './ruby_problems.rb'
 
 run RubyProblems::Base
